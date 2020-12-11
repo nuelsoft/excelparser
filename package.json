@@ -1,0 +1,20 @@
+{
+  "name": "excel-parser",
+  "version": "1.0.0",
+  "description": "A trial of serializing excel files to json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "excel",
+    "serializer",
+    "parser"
+  ],
+  "author": "nuelsoft",
+  "license": "ISC",
+  "dependencies": {
+    "read-excel-file": "^4.1.0"
+  }
+}
